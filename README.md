@@ -2,8 +2,9 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=Tochika%20Studios&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=000000&strokeWidth=2&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=355E3B%20"  />
 </div>
 
+
 <div align="center">
-  ## Eaiiiii?
+  <h1> Eaiiiii? </h1>
 </div>
 
 <div align="center">
