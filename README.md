@@ -11,7 +11,7 @@
 
 ---
 <h3 align="center"> 3D Modeler • Game Designer • Programmer </h3>
----
+
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,python,lua&theme=dark" />
