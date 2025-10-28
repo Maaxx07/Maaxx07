@@ -10,33 +10,18 @@
 </div>
 
 ---
-<h3 align="center">Programmer • Musician • Game Developer</h3>
+<h3 align="center"> 3D Modeler • Game Designer • Programmer </h3>
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=gamemakerstudio,cpp,python,discord,html,css" />
-</p>
-
----
-
-### <p align="center"> Projects i'm working on </p>
-<p align="center">
-  🟠 Orange        <br>
-  🐹 Hamster Havoc <br>
-</p>
-
----
-
-### <p align="center"> ⚔️ About me ⚔️ </p>
-<p align="center">
-  Hello, I am Justin. I'm an Indie Game Developer, Musician and a Programmer. I've been working on some projects, and i'm learning C++ and Python. My actual project is a 2D top-down game called Orange, you control an Orange Kid and must survive your own fears. Also creator of Pactum SMP on Minecraft. 
+  <img src="https://skillicons.dev/icons?i=blender,python,lua,gamemaker,figma&theme=light" />
 </p>
 
 ---
 
 ### <p align="center"> 🔗 Links </p>
 <p align="center">
-  <a href="https://github.com/12Guilhrm12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/Maaxx07"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://tochikastudios.onrender.com">
     <img src="https://custom-icon-badges.demolab.com/badge/Tochika_Studios-orange.svg?logo=tochikastudios&logoColor=white&style=for-the-badge" alt="Tochika Studios"/>
   </a>
