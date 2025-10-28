@@ -18,6 +18,8 @@
 </p>
 
 ---
+<p> Im gay </p>
+---
 
 ### <p align="center"> 🔗 Links </p>
 <p align="center">
