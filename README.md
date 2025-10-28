@@ -14,7 +14,7 @@
 ---
 ### <p align="center"> ⚙️ Abilities ⚙️ </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,python,lua,gamemakerstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=blender,python,lua&theme=dark" />
 </p>
 
 ---
