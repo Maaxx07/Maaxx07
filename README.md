@@ -18,7 +18,8 @@
 </p>
 
 ---
-<p> Im gay </p>
+<p> I'm a 3D modeler, programmer and designer</p>
+
 ---
 
 ### <p align="center"> 🔗 Links </p>
